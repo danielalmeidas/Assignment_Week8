@@ -1,0 +1,91 @@
+body {
+	padding-left: 30px;
+	padding-top: 15px;
+	font-family: 'Open Sans';
+	font-weight: 100;
+	font-size: 20px;
+	color: #606161; 
+
+}
+
+button {
+	padding: 13px 60px;
+	background-color: #033048;
+	border-radius: 8px;
+	border:none;
+	color: #ffffff;
+	margin-top: 25px;
+	font-size: 18px;
+	font-weight: 900;
+	justify-content: flex-end;
+	
+}
+
+h2 {
+	color: #606161; 
+	font-family: helvetica;
+	font-weight: 100;
+	font-size: 35px;
+}
+
+label{
+	float: left;
+	text-align: left;
+	margin-right: 80px;
+	width: 100px;
+
+}
+
+input {
+
+	padding-bottom: 10px;
+	padding-right: 300px;
+	margin-bottom: 20px;
+	margin-top: -8px;
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 18px;
+	font-weight: 100;
+	align-items: center;
+	align-items: center;
+}
+
+select{
+	margin-top: 7px;
+	height: 20px;
+	width: 470px;
+}
+
+text{
+	margin-left: 10px;
+}
+
+.checkbox{
+	padding-top: 30px;
+}
+
+
+.radioinputs{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	margin-left: 70px;
+}
+
+.box1 {
+	display: flex;
+	align-items: flex-end;
+}
+
+.label1 {
+	padding-right: 20px;
+}
+
+#label2{
+	padding-right: 30px;
+}
+
+
+
+
+
